@@ -10,3 +10,5 @@ A place where I store all the word I did and still do during my time at the Apna
 - **Conditionals:** Learnt about how to work with the if-else, else-if ladder, switch-case statements for condition matching in java.
 
 - **Loops:** Learnt about the for, while, do-while, break, continue constructs available for iteration in java.
+
+- **Patterns-1:** Learnt to build fundamental patterns and shapes using nested loops.
