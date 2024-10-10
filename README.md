@@ -6,3 +6,5 @@ A place where I store all the word I did and still do during my time at the Apna
 - **VariablesAndDatatypes:** Learnt how java is statically typed languages, it's data types, type convertion and casting. Type promotion in expressions.
 
 - **Operators:** Learnt how to work with various operators such as arithmetic, assignment, relational, logical and learnt about operator precedence and associativity.
+
+- **Conditionals:** Learnt about how to work with the if-else, else-if ladder, switch-case statements for condition matching in java. 
