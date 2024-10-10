@@ -7,4 +7,6 @@ A place where I store all the word I did and still do during my time at the Apna
 
 - **Operators:** Learnt how to work with various operators such as arithmetic, assignment, relational, logical and learnt about operator precedence and associativity.
 
-- **Conditionals:** Learnt about how to work with the if-else, else-if ladder, switch-case statements for condition matching in java. 
+- **Conditionals:** Learnt about how to work with the if-else, else-if ladder, switch-case statements for condition matching in java.
+
+- **Loops:** Learnt about the for, while, do-while, break, continue constructs available for iteration in java.
