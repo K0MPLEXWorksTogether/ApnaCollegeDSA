@@ -12,3 +12,5 @@ A place where I store all the word I did and still do during my time at the Apna
 - **Loops:** Learnt about the for, while, do-while, break, continue constructs available for iteration in java.
 
 - **Patterns-1:** Learnt to build fundamental patterns and shapes using nested loops.
+
+- **FunctionsAndMethods:** Learnt how to write functions, binary number system, scope and lifetime of variables, pass by value, pass by reference.
