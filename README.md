@@ -14,3 +14,5 @@ A place where I store all the word I did and still do during my time at the Apna
 - **Patterns-1:** Learnt to build fundamental patterns and shapes using nested loops.
 
 - **FunctionsAndMethods:** Learnt how to write functions, binary number system, scope and lifetime of variables, pass by value, pass by reference.
+
+- **Patterns-2:** Advanced usage of nested loops, analysis of patterns, how to dry run code to avoid bugs.
