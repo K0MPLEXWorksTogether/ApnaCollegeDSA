@@ -18,3 +18,7 @@ A place where I store all the word I did and still do during my time at the Apna
 - **Patterns-2:** Advanced usage of nested loops, analysis of patterns, how to dry run code to avoid bugs.
 
 - **Arrays-1:** How to create, read and write to arrays in java, linear and binary search, maximum and minimum element in array, reversing arrays, finding all pairs and subarrays in the array.
+
+- **Arrays-2:** Some fundamental problems like search in rotated sorted array, trapping rainwater.
+
+- **Sorting:** Implementation of selection, insertion, bubble and couting sort, as well as their reverse.
