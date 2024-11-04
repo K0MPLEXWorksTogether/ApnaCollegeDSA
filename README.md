@@ -22,3 +22,5 @@ A place where I store all the word I did and still do during my time at the Apna
 - **Arrays-2:** Some fundamental problems like search in rotated sorted array, trapping rainwater.
 
 - **Sorting:** Implementation of selection, insertion, bubble and couting sort, as well as their reverse.
+
+- **2D-Arrays:** Fundamentals of creating and operating with 2-D arrays, along with solving some basic problems on 2D-Arrays.
