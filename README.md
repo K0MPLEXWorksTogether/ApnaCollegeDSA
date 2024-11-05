@@ -24,3 +24,5 @@ A place where I store all the word I did and still do during my time at the Apna
 - **Sorting:** Implementation of selection, insertion, bubble and couting sort, as well as their reverse.
 
 - **2D-Arrays:** Fundamentals of creating and operating with 2-D arrays, along with solving some basic problems on 2D-Arrays.
+
+- **Strings:** Learnt to handle the String class, as well as the StringBuilder and StringBuffer class in java. Learnt about the concept of string interning, while solving some basic problems related to strings.
